@@ -36,8 +36,6 @@ A responsive Currency Converter web application built with **React**, **Vite**, 
    npm run dev
    ```
 
-4. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
-
 ## Live Demo 🌐
 [Link to Deployed App](https://celebrated-griffin-025725.netlify.app/)
 
